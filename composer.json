@@ -1,6 +1,6 @@
 {
-  "name": "rmrevin/yii2-fontawesome",
-  "description": "Asset Bundle for Yii2 with Font Awesome",
+  "name": "alfsoft/yii2-fontawesome",
+  "description": "Asset Bundle for Yii2 with Font Awesome 6",
   "keywords": [
     "yii",
     "font",
